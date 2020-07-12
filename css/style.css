@@ -54,7 +54,7 @@ body {
 #video-play {
   position: relative;
   min-height: 200px;
-  background: url(./imgs/media.jpg);
+  background: url(../imgs/media.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: 0 -300px;
