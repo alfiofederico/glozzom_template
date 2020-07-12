@@ -19,22 +19,22 @@ body {
 }
 
 .carousel-image-1 {
-  background: url(./imgs/image1.jpg);
+  background: url(../imgs/image1.jpg);
   background-size: cover;
 }
 .carousel-image-2 {
-  background: url(./imgs/image2.jpg);
+  background: url(../imgs/image2.jpg);
   background-size: cover;
 }
 .carousel-image-3 {
-  background: url(./imgs/image3.jpg);
+  background: url(../imgs/image3.jpg);
   background-size: cover;
 }
 
 #home-heading {
   position: relative;
   min-height: 200px;
-  background: url(./imgs/lights.jpg);
+  background: url(../imgs/lights.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
